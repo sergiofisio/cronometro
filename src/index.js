@@ -62,6 +62,9 @@ const zerar = () => {
     segundo.textContent = `00`
     minuto.textContent = `00`
     hora.textContent = `00`
+    horas = 00
+    minutos = 00
+    segundos = 00
     botãoPause = false
     cronometroPorIniciar = false
 }
